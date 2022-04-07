@@ -1,0 +1,10 @@
+Budapeszt 975 64
+Neapol 803 48
+Marsylia 871 56
+Leeds 721 44
+Frankfurt 895 57
+Genua 874 56
+Dortmund 908 57
+Rotterdam 785 49
+Dusseldorf 967 63
+Kopenhaga 942 60
